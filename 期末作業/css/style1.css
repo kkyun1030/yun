@@ -1,0 +1,9 @@
+body{
+    background-color: aqua;
+
+}
+ul{
+    float: right;
+    margin: 200px;
+    font-size: 40px;
+}
